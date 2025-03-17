@@ -4,7 +4,7 @@
 Clone the project repository with source code:
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/wubrafiq807/tracking-api kafka-tracking-api
 cd kafka-tracking-api
 ```
 
